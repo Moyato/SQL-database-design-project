@@ -15,5 +15,5 @@ The SQL technique I used to normalize my data was the CTAS (CREATE TABLE AS SELE
 - Hotel accommodations
 ### Database Diagram Design
 Using the Reverse Engineer feature of MySQL, I was able to create the ER Diagram below.
-
+! [ER diagram](/SQL-database-design-project/ER diagram.png)
 The diagram above shows the relationship between the entities in the databases
